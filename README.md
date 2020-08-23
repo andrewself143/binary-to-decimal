@@ -2,7 +2,9 @@
 <br>
 A calculator I made in Python to convert binary numbers to decimal (i.e. 1001 -> 9).<br>
 
-The script starts by first getting input from the user.<br>
+![Alt Text](demo.gif)
+
+<br>The script starts by first getting input from the user.<br>
 
 	def get_base():
 			base= input('Enter starting base: ')
